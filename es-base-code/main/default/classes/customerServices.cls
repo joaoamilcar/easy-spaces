@@ -12,7 +12,7 @@ public class customerServices {
 
     public class Customer{
 
-        //attributes that we associate with customers
+        // attributes that we associate with customers
         @auraEnabled
         public String email {get; set;}
 
